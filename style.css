@@ -1,0 +1,147 @@
+html{
+    background-image:url(https://thumbs.gfycat.com/AdolescentDiscreteIrishsetter-max-1mb.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    border-radius: 8cm;
+
+}
+
+
+header {
+    background: #161463;
+    padding: 50px 30px 50px 80px;
+    position: relative;
+    min-height:min-content;
+    top: 0px;
+    width: 100%;
+    padding-bottom: 50px;
+    height:50px;
+    border: 1rem solid;
+    border-color: #110f49;
+
+}
+
+header:not(h1){
+    opacity: 0.6;
+}
+.menu1
+{
+    position: absolute;
+    top: 60px; right:  300px;
+    font-family: 'Titan One', cursive;
+}
+.menu
+{
+    position: absolute;
+    top: 60px; right:  180px;
+    font-family: 'Titan One', cursive;
+}
+
+
+h1 {
+    position: relative;
+    bottom: 70px;left: 50px;
+    font-size:2cm;
+    font-family: 'Titan One', cursive;
+    color: whitesmoke;
+    
+}
+
+h2 {
+    text-decoration: underline;
+    color: whitesmoke;
+    margin-left: 30px;
+}
+
+form,
+
+input {
+    margin-block-end: 20px;
+}
+
+fieldset {
+width:fit-content;
+border-radius: 30px;
+position: relative;
+margin-right: 40px;
+color: whitesmoke;
+}
+
+.suj {
+position: relative;
+bottom: 30px;
+}
+
+textarea {
+    max-width: 400px;
+    max-height: 900px;
+}
+
+.submit {
+position: relative;
+top: 30px; left: 200px;
+}
+
+legend {
+ text-decoration:underline;
+ font-style: oblique;
+    }
+
+table,
+td {
+    border: 2px solid #333;
+}
+
+caption {
+    color: whitesmoke;
+}
+.image {
+    position: absolute ;
+    top:35px;left: 22px;
+}
+
+footer {
+background: #161463;
+padding: 50px 30px 50px 80px;
+position: static;
+bottom: 0cm;
+width: 100%;
+padding-top: 50px;
+height:50px;
+margin-top: 80px;
+border: 1rem solid;
+border-color: #110f49;
+
+}
+footer {
+    opacity: 0.6;
+}
+
+.imgF1 {
+    position: relative;
+    bottom: 65px; right: 35px;
+}
+
+.imgF2 {
+    position: relative;
+    bottom: 30px; right: 70px;
+}
+
+a {
+color: white;
+font-size: 0.7cm;
+}
+
+a:hover {color: rgb(18, 17, 17);}
+
+.video {
+    position:absolute;
+    top: 240px; left: 500px;
+    margin-left: 30px;
+    padding: 0 30 0 30;
+}
+
+.list {
+color: whitesmoke;
+}
